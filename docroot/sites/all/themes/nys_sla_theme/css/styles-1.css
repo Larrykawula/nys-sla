@@ -1,1 +1,38 @@
 .breadcrumb {display: none;}
+
+body {
+	font-family: 'ProximaNovaRegular', Arial, Helvetica, sans-serif;
+}
+a {
+	text-decoration: none;
+}
+p {
+	padding: 0 55px;
+}
+ul {
+	padding-left: 100px;
+}
+h2 {
+	margin-left:55px;
+	color:#333;
+}
+h3 {
+	padding: 0 55px;
+	color: #d5820d;
+	font-size: 24px;
+}
+.l-constrained {margin:0 0 0 0; width:100%;}
+.banner-text { padding: 64px 0px 0px 53px;
+    color: rgb(255, 255, 255);
+    font-size: 48px;
+    font-family: 'ProximaNovaExtrabold', Arial, Helvetica, sans-serif;
+    z-index: 1;}
+.banner-wrapper {display:block;}
+.banner {max-width: 100%;
+    background-image: url("http://nysslaugyym8frid.devcloud.acquia-sites.com/sites/default/files/content/images/nys-sla-banner.png");
+    box-sizing: border-box;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 412px;
+    position: relative;
+    z-index: 1;}
