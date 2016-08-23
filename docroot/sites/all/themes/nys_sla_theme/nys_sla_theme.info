@@ -19,4 +19,4 @@ regions[footer] = 'Footer'
 zones[header] = 'Header'
 zones[content] = 'Content'
 zones[footer] = 'Footer'
-stylesheets[all][] = style.css
+stylesheets[all][] = style-1.css
